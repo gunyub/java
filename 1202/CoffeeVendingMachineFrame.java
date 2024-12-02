@@ -1,3 +1,4 @@
+//14장 오픈챌린지
 package Report14;
 
 import javax.swing.*;
